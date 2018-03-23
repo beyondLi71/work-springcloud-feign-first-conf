@@ -1,4 +1,4 @@
 #设置端口号
 server:
   port: 9004
-title:develop-beyondLi-first-dev
+title: develop-beyondLi-first-dev

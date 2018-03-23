@@ -1,2 +1,5 @@
 #设置端口号
 title:master-beyondLi-first-test
+#设置端口号
+server:
+  port: 9004
